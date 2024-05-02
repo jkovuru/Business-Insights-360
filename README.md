@@ -14,7 +14,6 @@ Link to the course from where I practiced this project  [here](https://codebasic
 - Excel
 - DAX language
 - DAX studio (for optimizing the report)
-- Project charter file
 
 ## PowerBI techniques Learnt
 
